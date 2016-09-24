@@ -22,7 +22,7 @@ public class CameraFollow : MonoBehaviour {
 	}
 
 	void FixedUpdate(){
-		float targetSpeed = Mathf.Clamp(target.velocity.magnitude,1,Mathf.Infinity); // Clamp speed 
+		float targetSpeed = Mathf.Clamp(target.velocity.magnitude,speed,Mathf.Infinity); // Clamp speed 
 		Vector3 targetVelocity = new Vector3(
 			Mathf.Clamp(target.velocity.x*velocityMod.x*speed,-velocityMax.x,velocityMax.x),//Get target velocity, clamped and modified
 			Mathf.Clamp(target.velocity.y*velocityMod.y*speed,-velocityMax.y,velocityMax.y)
