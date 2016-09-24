@@ -21,7 +21,7 @@ namespace HutongGames.PlayMakerEditor
     public class PlayMakerAutoUpdater
     {
         public const string PlaymakerGUID = "e743331561ef77147ae48cda9bcb8209";
-        public const string PlaymakerPluginDirectory = "Assets/Plugins/PlayMaker";
+        public const string PlaymakerPluginDirectory = "Assets/Plugins"; //Josh Edit: For some reason it wanted /playermaker?
         public const string PlaymakerPluginPath = PlaymakerPluginDirectory + "/PlayMaker.dll";
         public const string PlaymakerMetroPluginPath = PlaymakerPluginDirectory + "/Metro/PlayMaker.dll";
 
