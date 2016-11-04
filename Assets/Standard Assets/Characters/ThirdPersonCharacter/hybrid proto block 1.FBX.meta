@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 0c7b1181c05c10b48aab075dfbd1d1c6
+timeCreated: 1478261060
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: big flower base
+    100002: Box001
+    100004: Box002
+    100006: flower stalk
+    100008: high platflower
+    100010: //RootNode
+    100012: leaf tunnel
+    100014: low platflower
+    100016: Plane001
+    100018: river
+    100020: the world
+    400000: big flower base
+    400002: Box001
+    400004: Box002
+    400006: flower stalk
+    400008: high platflower
+    400010: //RootNode
+    400012: leaf tunnel
+    400014: low platflower
+    400016: Plane001
+    400018: river
+    400020: the world
+    2300000: big flower base
+    2300002: Box001
+    2300004: Box002
+    2300006: flower stalk
+    2300008: high platflower
+    2300010: leaf tunnel
+    2300012: low platflower
+    2300014: Plane001
+    2300016: river
+    2300018: the world
+    3300000: big flower base
+    3300002: Box001
+    3300004: Box002
+    3300006: flower stalk
+    3300008: high platflower
+    3300010: leaf tunnel
+    3300012: low platflower
+    3300014: Plane001
+    3300016: river
+    3300018: the world
+    4300000: Plane001
+    4300002: the world
+    4300004: flower stalk
+    4300006: high platflower
+    4300008: low platflower
+    4300010: big flower base
+    4300012: Box001
+    4300014: leaf tunnel
+    4300016: river
+    4300018: Box002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 18.49
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
