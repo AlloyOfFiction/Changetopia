@@ -12,16 +12,34 @@ MonoBehaviour:
   m_Name: PlayMakerGlobals
   m_EditorClassIdentifier: 
   variables:
-    floatVariables: []
-    intVariables: []
-    boolVariables: []
-    stringVariables:
+    floatVariables:
     - useVariable: 1
-      name: Landing
+      name: Wheel rotation
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 
+      value: 0
+    intVariables:
+    - useVariable: 1
+      name: Fire leaves
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: Rain leaves
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    - useVariable: 1
+      name: Sub flowers
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
+    boolVariables: []
+    stringVariables: []
     vector2Variables: []
     vector3Variables: []
     colorVariables: []
@@ -35,8 +53,35 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000
+    variableCategoryIDs: 00000000000000000000000000000000
   events:
+  - landed
   - Arrived
   - Rain stop
-  - wet
+  - Fire
+  - Rain
+  - burn
+  - burned
+  - burn contact
+  - FINISHED
+  - rain charge
+  - release
+  - back
+  - forward
+  - left
+  - rigth
+  - stanfdstill
+  - up
+  - pressed
+  - rain done
+  - colected
+  - progress
+  - Back
+  - Forward
+  - Left
+  - Rigth
+  - jump
+  - standstill
+  - all collected
+  - delivered
+  - no
